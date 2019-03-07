@@ -6,3 +6,4 @@ If databases are more complex, they are often developed using formal design and 
 
 In this project, I had to create a database containing "Poet" and "Books" tables,
 the M:N association being made through the "Poetry Volumes" association table.
+<img src="Images/DataBase.jpg">
