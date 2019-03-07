@@ -10,3 +10,19 @@ the M:N association being made through the "Poetry Volumes" association table.
 
 This diagram can be done either in the MySQL Model environment or by writing the following SQL code:
 <img src="Images/SQLCode.jpg" width="400">
+
+JSP is a technology that helps software developers create dynamic web pages based on HTML, XML, or other types of documents. Launched in 1999 by Sun Microsystems, JSP is similar to PHP and ASP, but uses the Java programming language.
+
+Here is a sample of main class JavaBean
+<img src="Images/JavaBean.jpg">
+
+The final result of this Web Application:
+<img src="Images/Sample1.jpg">
+
+<img src="Images/Sample2.jpg">
+
+<img src="Images/Sample3.jpg">
+
+<img src="Images/Sample4.jpg">
+
+<img src="Images/Sample5.jpg">
