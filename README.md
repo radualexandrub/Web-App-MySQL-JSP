@@ -9,4 +9,4 @@ the M:N association being made through the "Poetry Volumes" association table.
 <img src="Images/DataBase.jpg">
 
 This diagram can be done either in the MySQL Model environment or by writing the following SQL code:
-<img src="Images/SQLCode.jpg">
+<img src="Images/SQLCode.jpg" width="320">
