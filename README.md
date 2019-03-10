@@ -2,7 +2,7 @@
 Web application containing a database created in MySQL using JSP Technology for interface.
 
 <b>NOTE: 
-The Java code (.jsp files) was written by the coordinating teacher. 
+The Java code (scriptlets in .jsp files) was written by the coordinating teacher. 
 In this project I had to make the database (using MySQL), correct and modify the Java code for my specific application & create the web interface (using HTML, JS, CSS).</b>
 
 A database is an organized collection of data, generally stored and electronically accessed from a computer system. 
