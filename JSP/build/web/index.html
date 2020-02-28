@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
+  <title>ProiectPAI</title>
+  
+<style>
+*{
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+  
+</head>
+  
+
+
+<body>
+<div id="main">
+
+    <div id="header">
+        <div id="logo">
+          <div id="logo_text">
+            <h1><a href="index.html"><span class="logo_colour">Biblioteca poetilor</span></a></h1>
+            <h2>Adauga. Cauta. Sterge?</h2>
+          </div>
+        </div>
+
+        <div id="menubar">
+          <div class="container">
+            <ul id="menu">
+                
+            <li class="selected"><a href="index.html">Acasa</a></li>
+            <li><a href="tabela_Poet.jsp">Poeti</a></li>
+            <li><a href="tabela_Carte.jsp">Carti</a></li>
+            <li><a href="tabela_VolumPoezii.jsp">Volume Poezii</a></li>
+            
+            <div class="dropdown">
+            <button class="dropbtn"><font face="Century Gothic">MODIFICA</font></button>
+                <div class="dropdown-content">
+                  <a href="modifica_Poet.jsp">Lista Poeti</a>
+                  <a href="modifica_Carte.jsp">Lista Carti</a>
+                  <a href="modifica_VolumPoezii.jsp">Lista Volume</a>
+                </div>
+            </div> 
+            
+            <li><a href="contact.html">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+
+
+    </div>
+    <div id="content_header">
+        <div id="site_content">
+          
+            <br>
+            <br>
+            <div class="row">
+              <div class="column">
+                <a href="tabela_Poet.jsp">
+                <img id="myImg" src="Imagini/ipoeti.jpg" style="width:100%">
+                </a>
+              </div>
+              <div class="column">
+                <a href="tabela_Carte.jsp">
+                <img id="myImg" src="Imagini/icarti.jpg" style="width:100%">
+                </a>
+              </div>
+              <div class="column">
+                <a href="tabela_VolumPoezii.jsp">
+                <img id="myImg" src="Imagini/ivolume.jpg" style="width:100%">
+                </a>   
+              </div>
+            </div>
+        
+            <br>
+            <br>
+            <h1><a href="modifica_Poet.jsp"><b><strong>Modifica Poet</strong></h1>
+            <br>
+            <br>
+            <h1><a href="modifica_Carte.jsp"><b><strong>Modifica Carte</strong></h1>
+            <br>
+            <br>
+            <h1><a href="modifica_VolumPoezii.jsp"><b><strong>Modifica Volum poezii</strong></b></a></h1>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        </div>
+</div>
+            
+    <div id="content_footer"></div>
+    <div id="footer">
+    	Ma gasesti aici:
+	<a target="_blank" href="https://www.facebook.com/Radduu" class="fa fa-facebook"></a>
+        <a target="_blank" href="https://plus.google.com/u/0/115509515206592850353" class="fa fa-google"></a>
+        <a target="_blank" href="https://www.youtube.com/channel/UCtMOuZUTRRZ2FZu_GnvJYGw" class="fa fa-youtube"></a>
+        <a target="_blank" href="https://www.instagram.com/raddub/" class="fa fa-instagram"></a>
+        <a target="_blank" href="https://ro.pinterest.com/radu_theboy/" class="fa fa-pinterest"></a>
+    </div>
+    
+</div>
+
+</body>
+</html>
