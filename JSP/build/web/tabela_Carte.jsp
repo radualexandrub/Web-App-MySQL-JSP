@@ -119,11 +119,11 @@ sa se faca stergerea la toate.-->
     <div id="content_footer"></div>
     <div id="footer">
     	Ma gasesti aici:
-        <a target="_blank" href="https://www.facebook.com/Radduu" class="fa fa-facebook"></a>
-        <a target="_blank" href="https://plus.google.com/u/0/115509515206592850353" class="fa fa-google"></a>
-        <a target="_blank" href="https://www.youtube.com/channel/UCtMOuZUTRRZ2FZu_GnvJYGw" class="fa fa-youtube"></a>
-        <a target="_blank" href="https://www.instagram.com/raddub/" class="fa fa-instagram"></a>
-        <a target="_blank" href="https://ro.pinterest.com/radu_theboy/" class="fa fa-pinterest"></a>
+        <a target="_blank" href="" class="fa fa-facebook"></a>
+        <a target="_blank" href="" class="fa fa-google"></a>
+        <a target="_blank" href="" class="fa fa-youtube"></a>
+        <a target="_blank" href="" class="fa fa-instagram"></a>
+        <a target="_blank" href="" class="fa fa-pinterest"></a>
     </div>
   </div>
 
