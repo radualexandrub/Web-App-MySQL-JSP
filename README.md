@@ -1,4 +1,4 @@
-# WebAPI-JSP
+# Web Application using MySQL + JSP
 Web application containing a database created in MySQL using JSP Technology for interface.
 
 <b>NOTE: 
